@@ -4,6 +4,7 @@
 import Preloader from './modules/preloader';
 import './modules/isMobile';
 import './modules/ga';
+import './modules/navigation';
 
 window.addEventListener('load', () => {
     console.log('vml skeleton');

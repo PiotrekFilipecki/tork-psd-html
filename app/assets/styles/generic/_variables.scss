@@ -7,7 +7,12 @@ $font-stack:
 //COLOR STACK
 $color-stack:
     (group: white, id: normal, color: #FFFFFF),
-    (group: black, id: normal, color: #000000);
+    (group: black, id: normal, color: #000000),
+    (group: purple, id: normal, color: #343c48),
+    (group: purple-bg, id: normal, color: #835fa8),
+    (group: grey-bg, id: normal, color: #f4f8fb),
+    (group: navy-bg, id: normal, color: #2b303b),
+    (group: green-btn, id: normal, color: #3dd2ae); 
 
 
 //== Media queries breakpoints

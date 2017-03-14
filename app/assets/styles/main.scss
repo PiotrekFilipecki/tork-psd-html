@@ -1,10 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
 @import "generic/variables";
 @import "generic/mixins";
 @import "generic/functions";
+@import "generic/normalize";
 
-// Use normalize or reset, whatever you prefer.
-@import '../../../node_modules/normalize.css/normalize.css';
-// @import '../../../node_modules/reset.css/reset.css';
+
 
 @import "base/base";
 @import "base/grid";
@@ -22,7 +22,9 @@
 @import "animations/keyframes";
 
 @import "layout/header";
+@import "layout/main";
 @import "layout/sidebar";
 @import "layout/footer";
 
 @import "shame";
+  

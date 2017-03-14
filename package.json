@@ -55,5 +55,7 @@
     "vinyl-buffer": "*",
     "vinyl-source-stream": "*"
   },
-  "dependencies": {}
+  "dependencies": {
+    "normalize.css": "^4.2.0"
+  }
 }
